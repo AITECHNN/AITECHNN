@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **REACT JS AND PHP-LARAVEL**
 
-- 💬 Ask me about **CORE PHP/MYSQL AND WORDPRESS**
+- 💬 Ask me about **CORE PHP LARAVEL/MYSQL AND WORDPRESS**
 
 - 📫 How to reach me **itsaddi625@gmail.com**
 
-- ⚡ Fun fact **HELLO WORLD**
+- ⚡ Fun fact **CENTER A DIV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
